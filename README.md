@@ -56,7 +56,7 @@
 	<tr align="center">
 		<th bgcolor="grey">3-5</th>
 		<td>AI</td>
-		<td>Compiler</td>
+c		<td>Compiler</td>
 		<td>MATHS</td>
 		<td>FC</td>
 		<td>CN</td>
